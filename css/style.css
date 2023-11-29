@@ -21,6 +21,7 @@ h2{
 }
 .carouselimg{
     height: 500px;
+    object-fit: cover;
 }
 section{
     padding-bottom: 100px;
@@ -51,4 +52,7 @@ section{
 }
 .locationText p{
     font-size: 1.2rem;
+}
+.carouseltext{
+    text-shadow: 2px 2px 2px black;
 }
