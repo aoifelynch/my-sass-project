@@ -8,7 +8,6 @@ section{
     padding: 30px;
 }
 h2{
-    font-family: 'Barlow Condensed';
     font-weight: 700;
 }
 .pt-10{
@@ -54,5 +53,11 @@ section{
     font-size: 1.2rem;
 }
 .carouseltext{
+    font-size: 1.1rem;
     text-shadow: 2px 2px 2px black;
+}
+.menuButton a{
+    text-decoration: none;
+    font-size: 1.4rem;
+    font-weight: 600;
 }
