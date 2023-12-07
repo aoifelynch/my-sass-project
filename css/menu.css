@@ -1,0 +1,16 @@
+.bg-img{
+    background-image: url("../images/background\ blue.jpg");
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+section{
+    padding: 30px;
+}
+.headingText p{
+    font-size: 1.3rem;
+}
+.headingText h1{
+    font-weight: 600;
+    font-size: 4rem;
+}
