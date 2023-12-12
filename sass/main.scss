@@ -5,16 +5,8 @@ $card-bg: #BCC6C9;
 $border-color: #E39161;
 $nav-link-color: #869BA0;
 $nav-link-hover-color: #4d5658;
+// FOOTER
 
-.menuNav{
-    font-size: 1.5rem;
-}
-.navbar a{
-    color: white;
-}
-.navbar a:hover{
-    color: #ced4da;
-}
 footer{
     background-color: #324144;
     padding-top: 40px;
@@ -41,6 +33,15 @@ footer ol{
 
 // MENU PAGE
 
+.menuNav{
+    font-size: 1.5rem;
+}
+.navbar a{
+    color: white;
+}
+.navbar a:hover{
+    color: #ced4da;
+}
 .menu-bg-img{
     background-image: url("../images/background\ blue.jpg");
     height: 350px;
@@ -56,6 +57,10 @@ footer ol{
 }
 .promotion{
     background-color: #E39161;
+}
+img{
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 // HOME PAGE

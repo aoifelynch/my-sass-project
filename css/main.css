@@ -1,16 +1,4 @@
 @charset "UTF-8";
-.menuNav {
-  font-size: 1.5rem;
-}
-
-.navbar a {
-  color: white;
-}
-
-.navbar a:hover {
-  color: #ced4da;
-}
-
 footer {
   background-color: #324144;
   padding-top: 40px;
@@ -38,6 +26,18 @@ footer ol {
   color: #BAAEAE;
 }
 
+.menuNav {
+  font-size: 1.5rem;
+}
+
+.navbar a {
+  color: white;
+}
+
+.navbar a:hover {
+  color: #ced4da;
+}
+
 .menu-bg-img {
   background-image: url("../images/background blue.jpg");
   height: 350px;
@@ -56,6 +56,10 @@ footer ol {
 
 .promotion {
   background-color: #E39161;
+}
+
+.card2 {
+  background-color: #b4b7b8;
 }
 
 .bg-img {
