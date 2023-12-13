@@ -1,7 +1,7 @@
 $primary: #fff;
 $secondary: #869BA0;
 $font-family-sans-serif: "Barlow Condensed";
-$card-bg: #BCC6C9;
+$card-bg: #E39161;
 $border-color: #E39161;
 $nav-link-color: #869BA0;
 $nav-link-hover-color: #4d5658;
@@ -56,11 +56,14 @@ footer ol{
     font-size: 4rem;
 }
 .promotion{
-    background-color: #E39161;
+    background-color: #9CC9CC;
 }
 img{
     background-size: cover;
     background-repeat: no-repeat;
+}
+.productLink a{
+    text-decoration: none;
 }
 
 // HOME PAGE

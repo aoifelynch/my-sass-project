@@ -55,11 +55,16 @@ footer ol {
 }
 
 .promotion {
-  background-color: #E39161;
+  background-color: #9CC9CC;
 }
 
-.card2 {
-  background-color: #b4b7b8;
+img {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.productLink a {
+  text-decoration: none;
 }
 
 .bg-img {
@@ -4529,7 +4534,7 @@ textarea.form-control-lg {
   --bs-card-cap-color: ;
   --bs-card-height: ;
   --bs-card-color: ;
-  --bs-card-bg: #BCC6C9;
+  --bs-card-bg: #E39161;
   --bs-card-img-overlay-padding: 1rem;
   --bs-card-group-margin: 0.75rem;
   position: relative;
