@@ -65,6 +65,7 @@ img {
 
 .productLink a {
   text-decoration: none;
+<<<<<<< HEAD
 }
 
 .relatedProducts img {
@@ -83,6 +84,8 @@ img {
   background-position: 1% 60%;
   background-size: cover;
   background-repeat: no-repeat;
+=======
+>>>>>>> 804db71f422ff204b6a839c058b50f4bdfda4852
 }
 
 .bg-img {
